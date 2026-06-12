@@ -1,5 +1,4 @@
 services:
   - type: static
     name: programming-club
-    buildCommand: ls -la
     staticPublishPath: .
