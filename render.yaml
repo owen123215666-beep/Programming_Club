@@ -1,5 +1,5 @@
 services:
   - type: static
     name: programming-club
-    buildCommand: echo "Static files ready"
+    buildCommand: ls -la
     staticPublishPath: .
